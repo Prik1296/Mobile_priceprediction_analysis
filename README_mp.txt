@@ -8,7 +8,7 @@
 
 ## Objectives
 
-1. **Set up a mbolie price prediction database**: Create and populate a with the provided price and features data.
+1. **Set up a mbolie price prediction database**: Create and populate with the provided price and features data.
 2. **Data Cleaning**: Identify and remove any records with missing or null values.
 3. **Exploratory Data Analysis (EDA)**: Perform basic exploratory data analysis to understand the dataset.
 4. **Business Analysis**: Use SQL to answer specific business questions and derive insights from the given data.
